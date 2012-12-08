@@ -1,7 +1,7 @@
 Name: amarok-scripts-zh_CN
 Summary: Amarok scripts for Chinese users
 Version: 0.8.11.29
-Release: %mkrel 5
+Release: %mkrel 7
 License: GPLv2+
 Url: http://www.kde-apps.org/index.php?xcontentmode=57
 Group: Sound
@@ -29,3 +29,31 @@ rm -fr %buildroot
 %files
 %defattr(-,root,root,-)
 %_kde_appsdir/amarok/scripts/*
+
+
+%changelog
+* Mon May 02 2011 Oden Eriksson <oeriksson@mandriva.com> 0.8.11.29-5mdv2011.0
++ Revision: 662763
+- mass rebuild
+
+* Mon Nov 29 2010 Oden Eriksson <oeriksson@mandriva.com> 0.8.11.29-4mdv2011.0
++ Revision: 603177
+- rebuild
+
+* Tue Mar 16 2010 Oden Eriksson <oeriksson@mandriva.com> 0.8.11.29-3mdv2010.1
++ Revision: 521936
+- rebuilt for 2010.1
+
+* Sun Aug 09 2009 Oden Eriksson <oeriksson@mandriva.com> 0.8.11.29-2mdv2010.0
++ Revision: 413026
+- rebuild
+
+* Sat Nov 29 2008 Funda Wang <fwang@mandriva.org> 0.8.11.29-1mdv2009.1
++ Revision: 308013
+- New version
+
+* Mon Nov 24 2008 Funda Wang <fwang@mandriva.org> 0.8.10.24-1mdv2009.1
++ Revision: 306326
+- import amarok-scripts-zh_CN
+
+
