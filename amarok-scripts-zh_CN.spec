@@ -1,7 +1,7 @@
 Name: amarok-scripts-zh_CN
 Summary: Amarok scripts for Chinese users
 Version: 0.8.11.29
-Release: 11
+Release: 12
 License: GPLv2+
 Url: http://www.kde-apps.org/index.php?xcontentmode=57
 Group: Sound
