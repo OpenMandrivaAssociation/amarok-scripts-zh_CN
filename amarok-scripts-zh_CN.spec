@@ -3,7 +3,7 @@ Summary: Amarok scripts for Chinese users
 Version: 0.8.11.29
 Release: 16
 License: GPLv2+
-Url: http://www.kde-apps.org/index.php?xcontentmode=57
+Url: https://www.kde-apps.org/index.php?xcontentmode=57
 Group: Sound
 Source0: http://www.kde-apps.org/CONTENT/content-files/91785-lyrics_CN.amarokscript.tar.gz
 Source1: http://www.kde-apps.org/CONTENT/content-files/91784-amarok-radio-cn.amarokscript.tar.gz
